@@ -7,12 +7,15 @@ In this challenge, we wrote a code for Python that would allow us to get the vot
 ## Election-Audit Results
 
 o	369,711 votes were cast in this congressional election.
-o	The county breakdown is Jefferson County with 38,855 votes or 10.5% of the total county votes,
-Denver County with 306,055 votes or 82.8% of the total county votes, 
-and Arapahoe County 24,801 votes or 6.7% of the total county votes
+
+o	The county breakdown is Jefferson County with 38,855 votes or 10.5% of the total county votes, Denver County with 306,055 votes or 82.8% of the total county votes, and Arapahoe County 24,801 votes or 6.7% of the total county votes
+
 o	Denver County had by far the largest turnout.
+
 o	The candidate breakdown is Charles Casper Stockholm with 85,213 votes and 23% of the total votes, Diane DeGette with 272,892 votes and 73.8% of the total votes, and Raymon Anthony Doane with 11,606 votes and 3.1% of the total votes.
+
 o	Diane DeGette won the election 272,892 votes and 73.8% of the total votes.
+
 
 ## Election-Audit Summary
 
