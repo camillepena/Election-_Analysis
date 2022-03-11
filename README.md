@@ -17,8 +17,14 @@ o	The candidate breakdown is Charles Casper Stockholm with 85,213 votes and 23% 
 o	Diane DeGette won the election 272,892 votes and 73.8% of the total votes.
 
 
+![VS Code 1](https://user-images.githubusercontent.com/97993428/157884914-4c9cb311-f983-4319-acd6-b5c2ba2e4be1.png)
+
 ## Election-Audit Summary
 
 This code could be easily modified to process other election results.  The easiest modification for be for another similar congressional election.  In that situation, the only modification would be to import a different dataset.  
 Other modifications within the code would be for statewide or city elections, and in those cases the modifications would be to the different lists and dictionaries.  The code could be modified for many different datasets that have to deal with voting.  It could modified for homecoming king race by changing the counties to grade levels.
+
+##  Difficulties
+
+I did have numerous difficulties with this code.  The main being able to import the csv file into my code.  Other people were able to run my code and get it to import though.  After hours and hours of trying to fix it and asking numerous tutors and TA's I was still unable to import the numbers to populate the numbers and percentages that I needed.
 
